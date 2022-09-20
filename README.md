@@ -1,6 +1,6 @@
 
 ## Requirements
-For running this experiment we used a Linux environment with Python 3.8.
+For running this experiment we used a Linux environment with Python 3.6 and later.
 
 You can see a list of python dependencies at [requirements.txt](requirements.txt).
 
