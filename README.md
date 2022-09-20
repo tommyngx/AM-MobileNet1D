@@ -15,6 +15,8 @@ To run it on TIMIT dataset we have first to pre-process the data, removing the s
 python TIMIT_preparation.py $TIMIT_FOLDER $OUTPUT_FOLDER data_lists/TIMIT_all.scp
 ``
 
+
+
 where:
 - *$TIMIT_FOLDER* is the folder of the original TIMIT corpus
 - *$OUTPUT_FOLDER* is the folder in which the normalized TIMIT will be stored
