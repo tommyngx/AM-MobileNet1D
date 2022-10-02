@@ -24,3 +24,7 @@ torchaudio==0.3.0
 torchvision==0.3.0
 tqdm==4.35.0
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6d06cbc863c776a14a807b4df3bb3bde948cd373
